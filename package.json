@@ -28,7 +28,7 @@
     "iview-area": "^1.5.16",
     "js-cookie": "^2.2.0",
     "jsencrypt": "^3.0.0-rc.1",
-    "moment": "^2.22.2",
+    "moment": "^2.29.4",
     "qrcode": "^1.2.2",
     "rasterizehtml": "^1.2.4",
     "simplemde": "^1.11.2",
